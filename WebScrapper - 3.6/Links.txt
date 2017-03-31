@@ -1,0 +1,17 @@
+http://altitudelabs.com/blog/web-scraping-with-python-and-beautiful-soup/
+
+http://kumaranpm.blogspot.in/2014/11/popular-software-skills-in-data-science.html
+
+https://github.com/indeedlabs/indeed-python
+
+http://www.chicagoreader.com/chicago/best-of-chicago-2011/BestOf?oid=4100483
+
+https://gist.github.com/gjreda/f3e6875f869779ec03db
+
+http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/
+
+https://jessesw.com/Data-Science-Skills/
+
+https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/
+
+https://first-web-scraper.readthedocs.io/en/latest/
